@@ -1,6 +1,6 @@
 Title: Projects
 Slug: projects
-Summary: What Mohit Ranka is building: Norvia Labs and Forge. His other open source is at opensource.mohitranka.com; games are coming to games.mohitranka.com.
+Summary: What Mohit Ranka is building: Norvia Labs and Forge. His small game is at projects.mohitranka.com.
 
 What I'm building is [Norvia Labs](https://norvialabs.com): open-source infrastructure for putting AI agents to work inside limits people set.
 
@@ -13,6 +13,5 @@ What I'm building is [Norvia Labs](https://norvialabs.com): open-source infrastr
 
 <section class="project" id="elsewhere">
   <h2>Elsewhere</h2>
-  <p><a href="https://opensource.mohitranka.com/" rel="noopener">Open source</a>: everything else I've given away, from OpenLemma to pydgraph and older experiments.</p>
-  <p><a href="https://games.mohitranka.com/" rel="noopener">Games</a>: small games I'm making for fun. Coming soon.</p>
+  <p><a href="https://projects.mohitranka.com/" rel="noopener">Game</a>: Lantern Barge, webcam boxing on a river barge.</p>
 </section>

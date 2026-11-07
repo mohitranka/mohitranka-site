@@ -39,9 +39,7 @@ What I'm building is Norvia Labs: open-source infrastructure for putting AI agen
 
   Elsewhere
 
-  Open source: everything else I've given away, from OpenLemma to pydgraph and older experiments.
-
-  Games: small games I'm making for fun. Coming soon.
+  Game: Lantern Barge, webcam boxing on a river barge.
 
 ### Work
 URL: https://www.mohitranka.com/work/
@@ -86,7 +84,7 @@ Selected work from 18+ years of hands-on engineering and engineering leadership,
 
 I write about what this work taught me — platforms, data, reliability, and leading teams — on the writing page.
 
-What I'm building now is on the Projects page; the rest of my open source is at opensource.mohitranka.com.
+What I'm building now is on the Projects page; a small game I made is at projects.mohitranka.com.
 
 ### Library
 URL: https://www.mohitranka.com/library/
