@@ -90,7 +90,7 @@ GOOGLE_ANALYTICS = os.environ.get('GOOGLE_ANALYTICS', 'G-CWEDLBH79X')
 # While either id is blank, no comments section is rendered at all.
 # Set GISCUS = None to turn comments off site-wide.
 GISCUS = {
-    'repo': 'mohitranka/mohitranka.github.com',
+    'repo': 'mohitranka/mohitranka-site',
     'repo_id': 'MDEwOlJlcG9zaXRvcnkyMjc2OTA4',
     'category': 'General',
     'category_id': 'DIC_kwDOACK-LM4DGq8R',
