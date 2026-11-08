@@ -29,14 +29,6 @@ URL: https://www.mohitranka.com/projects/
 
 What I'm building is Norvia Labs: open-source infrastructure for putting AI agents to work inside limits people set.
 
-  Forge
-
-  Open source · Norvia Labs
-
-  A terminal-native AI coding environment. It puts agent conversation, repository navigation, editing, shell execution, diffs, approvals, and durable sessions in one workspace, for people who would rather not leave the terminal.
-
-  I wrote about how it keeps provider prompt caches warm in How Forge structures requests for prompt cache reuse.
-
   OpenLemma
 
   Current · Norvia Labs

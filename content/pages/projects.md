@@ -1,15 +1,8 @@
 Title: Projects
 Slug: projects
-Summary: What Mohit Ranka is building: Norvia Labs, Forge, OpenLemma, and a small boxing game.
+Summary: What Mohit Ranka is building: Norvia Labs, OpenLemma, and a small boxing game.
 
 What I'm building is [Norvia Labs](https://norvialabs.com): open-source infrastructure for putting AI agents to work inside limits people set.
-
-<section class="project" id="forge">
-  <h2><a href="https://github.com/NorviaLabs/forge" rel="noopener noreferrer">Forge</a></h2>
-  <p class="project-meta">Open source · Norvia Labs</p>
-  <p>A terminal-native AI coding environment. It puts agent conversation, repository navigation, editing, shell execution, diffs, approvals, and durable sessions in one workspace, for people who would rather not leave the terminal.</p>
-  <p>I wrote about how it keeps provider prompt caches warm in <a href="/blog/how-forge-structures-requests-for-prompt-cache-reuse/">How Forge structures requests for prompt cache reuse</a>.</p>
-</section>
 
 <section class="project" id="openlemma">
   <h2><a href="https://openlemma.org" rel="noopener noreferrer">OpenLemma</a></h2>

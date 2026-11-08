@@ -109,7 +109,7 @@ def write_llms_txt(posts: list[dict]) -> None:
         f"- [About]({BASE}/about/): Who Mohit is, briefly, in his own words",
         f"- [Writing]({BASE}/blog/): Essays on systems, platforms, data, reliability, and leadership",
         f"- [Work]({BASE}/work/): Selected work at Norvia Labs, Moveworks, LinkedIn, Postman, and Booking.com",
-        f"- [Projects]({BASE}/projects/): Norvia Labs, Forge, OpenLemma, and a small boxing game",
+        f"- [Projects]({BASE}/projects/): Norvia Labs, OpenLemma, and a small boxing game",
         f"- [Lantern Barge]({BASE}/projects/boxing/): A small webcam boxing game",
         f"- [Library]({BASE}/library/): Books Mohit has read, synced from Goodreads, favourites first",
         f"- [Contact]({BASE}/contact/): Send Mohit a message",
