@@ -37,6 +37,12 @@ What I'm building is Norvia Labs: open-source infrastructure for putting AI agen
 
   I wrote about how it keeps provider prompt caches warm in How Forge structures requests for prompt cache reuse.
 
+  OpenLemma
+
+  Current · Norvia Labs
+
+  Teaches complex concepts visually. Ask about a concept, or bring a paper, article or chapter, and it builds a short, hands-on lesson: a live model for each idea, an explanation with an exact quote from a real source, and a chance to try it yourself. The source is on GitHub.
+
   Lantern Barge
 
   Game · 2026
@@ -44,6 +50,16 @@ What I'm building is Norvia Labs: open-source infrastructure for putting AI agen
   Three rounds with Tamsin “Tugboat” Rourke on a lantern-lit river barge. Punch and guard with your real fists in front of the webcam, or play with the keyboard (F/J straights, D/K hooks, Space to guard). Hand tracking runs in your browser; video never leaves your device.
 
   Play Lantern Barge
+
+  pydgraph
+
+  2016
+
+  The first Python client for the Dgraph graph database. I wrote the first versions and packaged it for pip; Dgraph Labs later took it over, and it is now their official Python client.
+
+  Earlier
+
+  Older open-source work, mostly in Go and Python: golox (the Lox language in Go), collections, angelica, Bundler, TwitterSentiment, Speechify, async_http_proxy, and mDataRecovery.
 
 ### Work
 URL: https://www.mohitranka.com/work/
