@@ -37,9 +37,13 @@ What I'm building is Norvia Labs: open-source infrastructure for putting AI agen
 
   I wrote about how it keeps provider prompt caches warm in How Forge structures requests for prompt cache reuse.
 
-  Elsewhere
+  Lantern Barge
 
-  Game: Lantern Barge, webcam boxing on a river barge.
+  Game · 2026
+
+  Three rounds with Tamsin “Tugboat” Rourke on a lantern-lit river barge. Punch and guard with your real fists in front of the webcam, or play with the keyboard (F/J straights, D/K hooks, Space to guard). Hand tracking runs in your browser; video never leaves your device.
+
+  Play Lantern Barge
 
 ### Work
 URL: https://www.mohitranka.com/work/
@@ -84,7 +88,7 @@ Selected work from 18+ years of hands-on engineering and engineering leadership,
 
 I write about what this work taught me — platforms, data, reliability, and leading teams — on the writing page.
 
-What I'm building now is on the Projects page; a small game I made is at projects.mohitranka.com.
+What I'm building now is on the Projects page, including Lantern Barge, a small game I made.
 
 ### Library
 URL: https://www.mohitranka.com/library/

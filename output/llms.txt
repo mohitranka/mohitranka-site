@@ -25,7 +25,7 @@ Site: https://www.mohitranka.com
 - [Writing](https://www.mohitranka.com/blog/): Essays on systems, platforms, data, reliability, and leadership
 - [Work](https://www.mohitranka.com/work/): Selected work at Norvia Labs, Moveworks, LinkedIn, Postman, and Booking.com
 - [Projects](https://www.mohitranka.com/projects/): What Mohit is building: Norvia Labs and Forge
-- [projects.mohitranka.com](https://projects.mohitranka.com/): Lantern Barge, a small webcam boxing game
+- [Lantern Barge](https://www.mohitranka.com/projects/boxing/): A small webcam boxing game
 - [Library](https://www.mohitranka.com/library/): Books Mohit has read, synced from Goodreads, favourites first
 - [Contact](https://www.mohitranka.com/contact/): Send Mohit a message
 - [Tags](https://www.mohitranka.com/tags/): Browse writing by topic tag

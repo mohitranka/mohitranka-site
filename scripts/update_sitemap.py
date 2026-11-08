@@ -32,6 +32,7 @@ urls = [
     (f"{BASE}/about/", TODAY, "monthly", "0.7"),
     (f"{BASE}/work/", TODAY, "monthly", "0.7"),
     (f"{BASE}/projects/", TODAY, "monthly", "0.6"),
+    (f"{BASE}/projects/boxing/", TODAY, "yearly", "0.5"),
     (f"{BASE}/library/", TODAY, "monthly", "0.5"),
     (f"{BASE}/contact/", TODAY, "yearly", "0.6"),
     (f"{BASE}/llms.txt", TODAY, "monthly", "0.5"),

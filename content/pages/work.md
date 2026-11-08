@@ -43,4 +43,4 @@ Selected work from 18+ years of hands-on engineering and engineering leadership,
 
 I write about what this work taught me — platforms, data, reliability, and leading teams — on the [writing](/blog/) page.
 
-What I'm building now is on the [Projects](/projects/) page; a small game I made is at [projects.mohitranka.com](https://projects.mohitranka.com/).
+What I'm building now is on the [Projects](/projects/) page, including [Lantern Barge](/projects/boxing/), a small game I made.
