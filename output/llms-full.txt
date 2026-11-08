@@ -57,10 +57,6 @@ What I'm building is Norvia Labs: open-source infrastructure for putting AI agen
 
   The first Python client for the Dgraph graph database. I wrote the first versions and packaged it for pip; Dgraph Labs later took it over, and it is now their official Python client.
 
-  Earlier
-
-  Older open-source work, mostly in Go and Python: golox (the Lox language in Go), collections, angelica, Bundler, TwitterSentiment, Speechify, async_http_proxy, and mDataRecovery.
-
 ### Work
 URL: https://www.mohitranka.com/work/
 

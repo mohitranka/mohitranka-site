@@ -29,8 +29,3 @@ What I'm building is [Norvia Labs](https://norvialabs.com): open-source infrastr
   <p class="project-meta">2016</p>
   <p>The first Python client for the Dgraph graph database. I wrote the first versions and packaged it for pip; Dgraph Labs later took it over, and it is now their official Python client.</p>
 </section>
-
-<section class="project" id="earlier">
-  <h2>Earlier</h2>
-  <p>Older open-source work, mostly in Go and Python: <a href="https://github.com/mohitranka/golox" rel="noopener noreferrer">golox</a> (the Lox language in Go), <a href="https://github.com/mohitranka/collections" rel="noopener noreferrer">collections</a>, <a href="https://github.com/mohitranka/angelica" rel="noopener noreferrer">angelica</a>, <a href="https://github.com/mohitranka/Bundler" rel="noopener noreferrer">Bundler</a>, <a href="https://github.com/mohitranka/TwitterSentiment" rel="noopener noreferrer">TwitterSentiment</a>, <a href="https://github.com/mohitranka/Speechify" rel="noopener noreferrer">Speechify</a>, <a href="https://github.com/mohitranka/async_http_proxy" rel="noopener noreferrer">async_http_proxy</a>, and <a href="https://github.com/mohitranka/mDataRecovery" rel="noopener noreferrer">mDataRecovery</a>.</p>
-</section>
